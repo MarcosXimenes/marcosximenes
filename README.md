@@ -14,7 +14,7 @@
 </h5>
 
 <br>
-<p align="center" style="font-family:Open Sans">
+<p align="center" style="font-family:Open Sans; font-size:16px">
   Olá 👋, sou Marcos Ximenes, Engenheiro de Machine Learning na SantoDigital!
   <br>
   <br>
