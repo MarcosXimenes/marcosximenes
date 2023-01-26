@@ -7,15 +7,10 @@
 </h1>
 
 <h5 align="center">
-    <code>
-        <a href="https://www.linkedin.com/in/osmandurdag/" title="LinkedIn Profile"><img width="25" src="images/linkedin.svg"> LinkedIn</a>
-    </code>
-    <code>
-        <a href="https://www.linkedin.com/in/osmandurdag/" title="Twitter Profile"><img width="25" src="images/twitter.svg"> Twitter</a>
-    </code>
-    <code>
-        <a href="https://www.linkedin.com/in/osmandurdag/" title="LinkedIn Profile"><img width="25" src="images/instagram.svg"> Instagram</a>
-    </code>
+    <p align="center" style="font-family:Open Sans">
+        <a href="https://www.linkedin.com/in/marcosximenes/" title="LinkedIn Profile"><img height="40" src="images/linkedin.svg"></a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+        <a href="https://twitter.com/iJuniorXimenes" title="Twitter Profile"><img height="40" src="images/twitter.svg"></a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+        <a href="https://www.instagram.com/thejuniorximenes/" title="LinkedIn Profile"><img height="40" src="images/instagram.svg"></a>
 </h5>
 
 <br>
@@ -35,23 +30,23 @@
 <h2 align="center" style="font-family:Open Sans; font-weight: bold">🔥 Linguagens e Ferramentas 🔥</h2>
 <br>
 <p align="center" style="font-family:Open Sans">
-  <code><img title="Python" height="25" src="images/python-original.svg"></code>
-  <code><img title="SQL" height="25" src="images/sql.png"></code>
-  <code><img title="C" height="25" src="images/c.svg"></code>
-  <code><img title="C++" height="25" src="images/cpp.svg"></code>
-  <code><img title="Java" height="25" src="images/java-original.svg"></code>
-  <code><img title="Javascript" height="25" src="images/javascript.svg"></code>
+  <img title="Python" height="25" src="images/python-original.sv
+  <img title="SQL" height="25" src="images/sql.pn
+  <img title="C" height="25" src="images/c.sv
+  <img title="C++" height="25" src="images/cpp.sv
+  <img title="Java" height="25" src="images/java-original.sv
+  <img title="Javascript" height="25" src="images/javascript.sv
   <br><br>
-  <code><img title="Google Workspace" height="25" src="images/google.webp"></code>
-  <code><img title="Google Cloud Platform" height="25" src="images/gcp.png"></code>
-  <code><img title="Scrum" height="25" src="images/scrum.png"></code>
-  <code><img title="Visual Studio Code" height="25" src="images/vscode.png"></code>
-  <code><img title="Git" height="25" src="images/git-original.svg"></code>
-  <code><img title="Produtos Atlassian (Jira, Bitbucket, Confluence)" height="25" src="images/atlassian.png"></code>
-  <code><img title="GitHub" height="25" src="images/github.svg"></code>
-  <code><img title="Pacote Office" height="25" src="images/office.png"></code>
-  <code><img title="Pacote Adobe" height="25" src="images/adobe.png"></code>
-  <code><img title="Produtos AutoDesk" height="25" src="images/autodesk.png"></code>
+  <img title="Google Workspace" height="25" src="images/google.web
+  <img title="Google Cloud Platform" height="25" src="images/gcp.pn
+  <img title="Scrum" height="25" src="images/scrum.pn
+  <img title="Visual Studio Code" height="25" src="images/vscode.pn
+  <img title="Git" height="25" src="images/git-original.sv
+  <img title="Produtos Atlassian (Jira, Bitbucket, Confluence)" height="25" src="images/atlassian.pn
+  <img title="GitHub" height="25" src="images/github.sv
+  <img title="Pacote Office" height="25" src="images/office.pn
+  <img title="Pacote Adobe" height="25" src="images/adobe.pn
+  <img title="Produtos AutoDesk" height="25" src="images/autodesk.pn
 </p>
 <hr>
 
