@@ -30,23 +30,23 @@
 <h2 align="center" style="font-family:Open Sans; font-weight: bold">🔥 Linguagens e Ferramentas 🔥</h2>
 <br>
 <p align="center" style="font-family:Open Sans">
-  <img title="Python" height="25" src="images/python-original.sv
-  <img title="SQL" height="25" src="images/sql.pn
-  <img title="C" height="25" src="images/c.sv
-  <img title="C++" height="25" src="images/cpp.sv
-  <img title="Java" height="25" src="images/java-original.sv
-  <img title="Javascript" height="25" src="images/javascript.sv
+  <img title="Python" height="25" src="images/python-original.svg">&nbsp&nbsp
+  <img title="SQL" height="25" src="images/sql.png">&nbsp&nbsp
+  <img title="C" height="25" src="images/c.svg">&nbsp&nbsp
+  <img title="C++" height="25" src="images/cpp.svg">&nbsp&nbsp
+  <img title="Java" height="25" src="images/java-original.svg">&nbsp&nbsp
+  <img title="Javascript" height="25" src="images/javascript.svg">
   <br><br>
-  <img title="Google Workspace" height="25" src="images/google.web
-  <img title="Google Cloud Platform" height="25" src="images/gcp.pn
-  <img title="Scrum" height="25" src="images/scrum.pn
-  <img title="Visual Studio Code" height="25" src="images/vscode.pn
-  <img title="Git" height="25" src="images/git-original.sv
-  <img title="Produtos Atlassian (Jira, Bitbucket, Confluence)" height="25" src="images/atlassian.pn
-  <img title="GitHub" height="25" src="images/github.sv
-  <img title="Pacote Office" height="25" src="images/office.pn
-  <img title="Pacote Adobe" height="25" src="images/adobe.pn
-  <img title="Produtos AutoDesk" height="25" src="images/autodesk.pn
+  <img title="Google Workspace" height="25" src="images/google.webp">&nbsp&nbsp
+  <img title="Google Cloud Platform" height="25" src="images/gcp.png">&nbsp&nbsp
+  <img title="Scrum" height="25" src="images/scrum.png">&nbsp&nbsp
+  <img title="Visual Studio Code" height="25" src="images/vscode.png">&nbsp&nbsp
+  <img title="Git" height="25" src="images/git-original.svg">&nbsp&nbsp
+  <img title="Produtos Atlassian (Jira, Bitbucket, Confluence)" height="25" src="images/atlassian.png">&nbsp&nbsp
+  <img title="GitHub" height="25" src="images/github.svg">&nbsp&nbsp
+  <img title="Pacote Office" height="25" src="images/office.png">&nbsp&nbsp
+  <img title="Pacote Adobe" height="25" src="images/adobe.png">&nbsp&nbsp
+  <img title="Produtos AutoDesk" height="25" src="images/autodesk.png">
 </p>
 <hr>
 
