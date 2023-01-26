@@ -10,7 +10,7 @@
     <p align="center" style="font-family:Open Sans">
         <a href="https://www.linkedin.com/in/marcosximenes/" title="LinkedIn Profile"><img height="40" src="images/linkedin.svg"></a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
         <a href="https://twitter.com/iJuniorXimenes" title="Twitter Profile"><img height="40" src="images/twitter.svg"></a>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
-        <a href="https://www.instagram.com/thejuniorximenes/" title="LinkedIn Profile"><img height="40" src="images/instagram.svg"></a>
+        <a href="https://github.com/MarcosXimenes" title="GitHub Profile"><img height="40" src="images/github.svg"></a>
 </h5>
 
 <br>
@@ -87,5 +87,5 @@
 </div>
 <br><br><br><br><br><br>
 <h4 align="center">
-  <a href="https://github.com/marcosximenes?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
+  <a href="https://github.com/marcosximenes?tab=repositories" title="Show Repositories">🔎 Exibir Mais 🔍</a>
 </h4>
