@@ -2,21 +2,21 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Product+Sans&size=35&pause=1000&color=61dafb&center=true&vCenter=true&width=550&lines=Ol%C3%A1%2C+sou+Marcos+Ximenes!;Engenheiro+de+Machine+Learning;Bom+te+ver+por+aqui!+%F0%9F%98%8A">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Product+Sans&size=35&pause=1000&color=61dafb&center=true&vCenter=true&width=550&lines=Ol%C3%A1%2C+sou+Marcos+Ximenes!;Engenheiro+de+Machine+Learning;Bom+te+ver+por+aqui!+%F0%9F%98%8A">
   </a>
 </h1>
 
 <h5 align="center">
     <code>
-        <a href="https://www.linkedin.com/in/osmandurdag/" title="LinkedIn Profile"><img height="25" src="images/linkedin.svg"> LinkedIn</a>
+        <a href="https://www.linkedin.com/in/osmandurdag/" title="LinkedIn Profile"><img width="25" src="images/linkedin.svg"> LinkedIn</a>
     </code>
     <code>
-        <a href="https://www.linkedin.com/in/osmandurdag/" title="Twitter Profile"><img height="25" src="images/twitter.svg"> Twitter</a>
+        <a href="https://www.linkedin.com/in/osmandurdag/" title="Twitter Profile"><img width="25" src="images/twitter.svg"> Twitter</a>
     </code>
     <code>
-        <a href="https://www.linkedin.com/in/osmandurdag/" title="LinkedIn Profile"><img height="25" src="images/instagram.svg"> Instagram</a>
+        <a href="https://www.linkedin.com/in/osmandurdag/" title="LinkedIn Profile"><img width="25" src="images/instagram.svg"> Instagram</a>
     </code>
-    </h5>
+</h5>
 
 <br>
 <p align="center" style="font-family:Open Sans">
