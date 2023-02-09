@@ -26,8 +26,8 @@
   📫 Contato: <a href="mailto: m.ximenes.junior@gmail.com">m.ximenes.junior@gmail.com</a>
   <br>
   <br>
-  <img title="Google Cloud Digital Leader" height="25" src="images/badge_cdl.png">&nbsp&nbsp
-  <img title="Google Associate Cloud Engineer" height="25" src="images/badge_ace.png">&nbsp&nbsp
+  <img title="Google Cloud Digital Leader" height="40" src="images/badge_cdl.png">&nbsp&nbsp
+  <img title="Google Associate Cloud Engineer" height="40" src="images/badge_ace.png">&nbsp&nbsp
 </p>
 
 <hr>
