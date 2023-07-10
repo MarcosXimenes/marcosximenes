@@ -28,6 +28,7 @@
   <br>
   <img title="Google Cloud Digital Leader" height="150" src="images/badge_cdl.png">&nbsp&nbsp
   <img title="Google Associate Cloud Engineer" height="150" src="images/badge_ace.png">&nbsp&nbsp
+  <img title="Google Professional Cloud Architect" height="150" src="images/badge_pca.png">&nbsp&nbsp
 </p>
 
 <hr>
