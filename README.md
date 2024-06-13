@@ -26,9 +26,21 @@
   📫 Contato: <a href="mailto: m.ximenes.junior@gmail.com">m.ximenes.junior@gmail.com</a>
   <br>
   <br>
-  <img title="Google Cloud Digital Leader" height="150" src="images/badge_cdl.png">&nbsp&nbsp
-  <img title="Google Associate Cloud Engineer" height="150" src="images/badge_ace.png">&nbsp&nbsp
-  <img title="Google Professional Cloud Architect" height="150" src="images/badge_pca.png">&nbsp&nbsp
+  <a href="https://www.credly.com/earner/earned/badge/ae7169f7-8d14-4281-8a1f-7898b9182083" target="">
+  <img title="Google Cloud Digital Leader" height="150" src="images/badge_cdl.png">
+</a>&nbsp&nbsp
+<a href="https://www.credly.com/earner/earned/badge/999a0ca5-6bb3-4d56-a8e3-d37ca1f22641" target="">
+  <img title="Google Associate Cloud Engineer" height="150" src="images/badge_ace.png">
+</a>&nbsp&nbsp
+<a href="https://www.credly.com/earner/earned/badge/4a9c8fa9-1612-45c0-8d49-72b9c2e34c42" target="">
+  <img title="Google Professional Cloud Architect" height="150" src="images/badge_pca.png">
+</a>&nbsp&nbsp
+<a href="https://www.credly.com/earner/earned/badge/1c9e0e0e-b35a-493f-9418-412748409894" target="">
+  <img title="Google Professional Cloud Developer" height="150" src="images/badge_pcd.png">
+</a>&nbsp&nbsp
+<a href="https://www.credly.com/earner/earned/badge/41330bf9-b6f5-4f6a-9996-01ded102d075" target="">
+  <img title="Google Professional Machine Learning Enginner" height="150" src="images/badge_pmle.png">
+</a>
 </p>
 
 <hr>
@@ -74,7 +86,7 @@
   </div>
   <br>
   
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=marcosximenes&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=marcosximenes&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
 
 <hr>
