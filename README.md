@@ -26,16 +26,6 @@
   📫 Contato: <a href="mailto: m.ximenes.junior@gmail.com">m.ximenes.junior@gmail.com</a>
   <br>
   <br>
-  <style>
-  a img {
-    border: none; /* Remove any borders around the images */
-  }
-
-  a {
-    text-decoration: none; /* Remove underline from links */
-  }
-</style>
-
   <a href="https://www.credly.com/earner/earned/badge/ae7169f7-8d14-4281-8a1f-7898b9182083" target="_blank">
   <img title="Google Cloud Digital Leader" height="150" src="images/badge_cdl.png">
 </a>&nbsp&nbsp
